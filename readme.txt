@@ -1,3 +1,11 @@
+This is my attempt on COMP5821M Geometric Processing from University of Leeds
+
+Video demonstration:  
+This code can run on University machine but have not tested for other platforms yet.  
+  
+Video demonstration: https://www.youtube.com/watch?v=eF6QlOhJGGo
+
+
 To compile on feng-linux / feng-gps:
 
 module add qt/5.13.0
